@@ -46,7 +46,7 @@ This project predicts income brackets (≤$50k or >$50k) using demographic/occup
 
 4. **Train Model**:  
    ```bash
-   python train_model.py  # Generates ADA.joblib
+   python train_model.py  # Generates model.joblib
    ```
 
 ---
@@ -59,7 +59,7 @@ income-prediction/
 │   │   ├── index.html       # Homepage
 │   │   ├── predict.html     # Input form
 │   │   └── result.html      # Prediction results
-│   ├── ADA.joblib           # Trained model
+│   ├── model.joblib           # Trained model
 │   └── app.py               # Flask application
 ├── train_model.py           # Model training script
 ├── adult.csv                # Dataset (not included in repo)
@@ -83,7 +83,7 @@ income-prediction/
      ![Result Example](https://via.placeholder.com/600x200?text=Prediction+Resultmatic Prediction**:  
    ```python
    import joblib
-   model = joblib.load('FLASK/ADA.joblib')
+   model = joblib.load('FLASK/model.joblib')
    sample_data = [[40,4,11,2,6,0,4,1,0,0,40,39]]  # Feature vector
    print(model.predict(sample_data))  # [0] = ≤50k, [1] = >50k
    ```
