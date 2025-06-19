@@ -1,0 +1,13 @@
+(
+  echo # Windows OS
+  echo Thumbs.db
+  echo desktop.ini
+  echo 
+  echo # IDE/project files
+  echo .vscode\
+  echo *.user
+  echo 
+  echo # Build outputs
+  echo bin\
+  echo obj\
+) > .gitignore
