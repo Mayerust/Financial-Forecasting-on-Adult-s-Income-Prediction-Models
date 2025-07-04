@@ -1,4 +1,4 @@
-## Financial Forecasting on Adult’s Income Prediction Models
+## SMARTINTERNZ - Financial Forecasting on Adult’s Income Prediction Models
 
 ### Project Overview  
 This project predicts income brackets (≤$50k or >$50k) using demographic/occupational data to enable personalized financial planning. It includes:  
