@@ -1,3 +1,10 @@
+TeamID: SWTID1749710097
+Team members:
+1) Mayank Verma (LEAD)
+2) Manas Pipersaniya
+3) Sanjoli Gupta
+4) Sanjog Gupta
+
 ## SMARTINTERNZ - Financial Forecasting on Adult’s Income Prediction Models
 
 ### Project Overview  
