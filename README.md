@@ -7,6 +7,9 @@
 -  Sanjoli Gupta
 -  Sanjog Gupta
 
+   ## PROJECT DEMO VIDEO LINK:
+   https://drive.google.com/file/d/1OI9OlIgY_2yOKZ5yL23lavhRmHqyUygQ/view?usp=drive_link
+
 ---
 
 ## Project Overview
