@@ -23,12 +23,15 @@ This project predicts income brackets (≤$50k or >$50k) using demographic/occup
 - Web Interface: User input forms for prediction with result explanations
 - Deployment: Flask-based app with modular HTML templates
 
-## Technology Stack
-| Component | Technologies/Packages | 
-| Backend | Python 3.8+, Flask, scikit-learn | 
-| Machine Learning | pandas, numpy, imbalanced-learn | 
-| Frontend | HTML/CSS (no JS frameworks) | 
-| Model Persistence | joblib | 
+### Technology Stack
+
+| Component         | Technologies / Packages              |
+|------------------|---------------------------------------|
+| Backend           | Python 3.8+, Flask, scikit-learn     |
+| Machine Learning  | pandas, numpy, imbalanced-learn      |
+| Frontend          | HTML/CSS (no JS frameworks)          |
+| Model Persistence | joblib                               |
+
 
 ---
 
@@ -80,14 +83,14 @@ model = joblib.load('FLASK/model.joblib')
 sample_data = [[40,4,11,2,6,0,4,1,0,0,40,39]]  # Feature vector
 print(model.predict(sample_data))  # [0] = ≤50k, [1] = >50k
 
+### Model Performance
 
-
-Model Performance
-| Metric | Value | 
-| Accuracy | 84.0% | 
-| Precision | 72.9% | 
-| Recall | 48.6% | 
-| F1-Score | 58.2% | 
+| Metric     | Value  |
+|------------|--------|
+| Accuracy   | 84.0%  |
+| Precision  | 72.9%  |
+| Recall     | 48.6%  |
+| F1-Score   | 58.2%  |
 
 ---
 
