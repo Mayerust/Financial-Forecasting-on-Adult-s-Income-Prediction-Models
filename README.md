@@ -120,4 +120,13 @@ git push origin feature/new-algorithm
 MIT License - Open for academic/commercial use with attribution.
 Note: Dataset licensing follows Kaggle's Terms.
 
-[1] https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e?gi=8a4060ab4107 [2] https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e [3] https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2 [4] https://www.reddit.com/r/AI_Agents/comments/1iix4k8/i_built_an_ai_agent_that_creates_readme_file_for/ [5] https://docsbot.ai/prompts/writing/flask-app-readme-writer [6] https://hackernoon.com/how-to-create-an-engaging-readme-for-your-data-science-project-on-github [7] https://www.reddit.com/r/cscareerquestions/comments/h17blk/always_write_a_clear_readme_if_you_want_to_find_a/ [8] https://www.toolify.ai/ai-news/build-an-income-prediction-model-using-machine-learning-in-python-1747803 [9] https://infoscience.epfl.ch/nanna/record/298249/files/2022_rdm_readme_best_practices.pdf?withWatermark=0&withMetadata=0&version=1&registerDownload=1 [10] https://dev.to/ikhaledabdelfattah/level-up-your-readme-file-495f
+[1] https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e?gi=8a4060ab4107 
+[2] https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e 
+[3] https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2 
+[4] https://www.reddit.com/r/AI_Agents/comments/1iix4k8/i_built_an_ai_agent_that_creates_readme_file_for/ 
+[5] https://docsbot.ai/prompts/writing/flask-app-readme-writer 
+[6] https://hackernoon.com/how-to-create-an-engaging-readme-for-your-data-science-project-on-github 
+[7] https://www.reddit.com/r/cscareerquestions/comments/h17blk/always_write_a_clear_readme_if_you_want_to_find_a/ 
+[8] https://www.toolify.ai/ai-news/build-an-income-prediction-model-using-machine-learning-in-python-1747803 
+[9] https://infoscience.epfl.ch/nanna/record/298249/files/2022_rdm_readme_best_practices.pdf?withWatermark=0&withMetadata=0&version=1&registerDownload=1 
+[10] https://dev.to/ikhaledabdelfattah/level-up-your-readme-file-495f
