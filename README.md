@@ -48,19 +48,19 @@ python train_model.py  # Generates model.joblib
 ---
 
 ## Folder Structure
+```
 income-prediction/
 ├── FLASK/
-│   ├── templates/           # HTML pages
-│   │   ├── index.html       # Homepage
-│   │   ├── predict.html     # Input form
-│   │   └── result.html      # Prediction results
-│   ├── model.joblib           # Trained model
-│   └── app.py               # Flask application
-├── train_model.py           # Model training script
-├── adult.csv                # Dataset (not included in repo)
-└── requirements.txt         # Dependencies
-
----
+│   ├── templates/              # HTML pages
+│   │   ├── index.html          # Homepage
+│   │   ├── predict.html        # Input form
+│   │   └── result.html         # Prediction results
+│   ├── model.joblib            # Trained model
+│   └── app.py                  # Flask application
+├── train_model.py              # Model training script
+├── adult.csv                   # Dataset (not included in repo)
+└── requirements.txt            # Dependencies
+```
 
 ## Usage Instructions
 - Start Flask App:
